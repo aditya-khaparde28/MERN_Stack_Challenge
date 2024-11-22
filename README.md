@@ -15,7 +15,7 @@ Database: MongoDB for efficient data management.
 🛠️ Installation
 
 1.Clone the repository:
-git clone https://github.com/aditya-khaparde28/MERN_Stack_Coding_Challenge.git
+git clone https://github.com/aditya-khaparde28/MERN_Stack_Challenge
 
 2.Navigate to the project directory: cd MERN_Stack_Coding_Challenge
 
